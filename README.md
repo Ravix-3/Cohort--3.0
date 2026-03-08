@@ -21,6 +21,7 @@ setTimeout	Event loop and timer functions
 VS Code Setup	Development environment setup and best practices
 Navigation Skeleton	Basic web navigation structure
 Resources	Learning materials and references
+
 📂 Project Structure
 Cohort-3.0
 │
