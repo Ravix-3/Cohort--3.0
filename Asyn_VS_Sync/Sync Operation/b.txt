@@ -1,0 +1,1 @@
+<This is my practice of how to call async operation via a synchronously.>
