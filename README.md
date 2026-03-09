@@ -4,23 +4,7 @@ A structured repository documenting my learning journey through JavaScript funda
 
 This repository contains hands-on implementations, experiments, and practice exercises covering essential JavaScript concepts used in modern frontend and full-stack development.
 
-The goal of this project is to build a deep understanding of JavaScript internals, strengthen problem-solving skills, and prepare for software engineering interviews and real-world development.
-
-📚 Topics Covered
-
-This repository is organized into modules, each focusing on a specific JavaScript concept.
-
-Module	Description
-Async vs Sync	Understanding synchronous vs asynchronous execution in JavaScript
-Async / Await	Writing cleaner asynchronous code using async/await
-Promises	Promise creation, chaining, and promise methods
-Closures	Understanding lexical scope and closure behavior
-Classes	ES6 classes, objects, methods, and prototypes
-DOM	DOM manipulation and browser interaction
-setTimeout	Event loop and timer functions
-VS Code Setup	Development environment setup and best practices
-Navigation Skeleton	Basic web navigation structure
-Resources	Learning materials and references
+The goal of this project is to build a deep understanding of JavaScript internals, strengthen problem-solving skills, and prepare for software engineering interviews and real-world development
 
 📂 Project Structure
 Cohort-3.0
